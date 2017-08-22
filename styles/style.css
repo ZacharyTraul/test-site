@@ -1,0 +1,36 @@
+html {
+  font-size: 25px; /*This is a comment*/
+  font-family: 'Baloo Bhaijaan', cursive;
+  background-color: #FF99FF;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+p, li {
+  color: red;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+li {
+  color: blue;
+}
+h3 {
+  margin: 0;
+  padding: 15px 0;
+  text-shadow: 3px 3px 1px black;
+  color: green;
+  font-size: 60px;
+  text-align: center;
+}
+a:hover {
+  border: 2px solid pink;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
